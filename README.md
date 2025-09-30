@@ -1,8 +1,8 @@
-# home
+# readme
 
 В процессе проверки Web проектов, необходимо обращать внимание на:
 
-1. [README.md](01_readme.md);
+1. [Оформление README.md](01_readme.md);
 2. [Структура-репозитория](02_repository_structure.md);
 3. [Структуру проекта](03_project_structure);
 4. [Скрипты миграции](04_migration_script);
@@ -12,4 +12,5 @@
 8. [Слой сервисов](08_service_layer);
 9. [Слой контроллеров](09_controller_and_view_layer);
 10. [Оформление кода](10_code_design);
+
 11. [Тесты](11_tests).
